@@ -44,6 +44,8 @@ export class DataForSeoLabsFilterTool extends BaseTool {
     'dataforseo_labs_google_domain_whois_overview': 'domain_whois_overview.google',
     'dataforseo_labs_google_categories_for_domain': 'categories_for_domain.google',
     'dataforseo_labs_google_keywords_for_categories': 'keywords_for_categories.google',
+    'dataforseo_labs_amazon_related_keywords': 'related_keywords.amazon',
+    'dataforseo_labs_amazon_ranked_keywords': 'ranked_keywords.amazon',
     'dataforseo_labs_amazon_product_competitors': 'product_competitors.amazon',
     'dataforseo_labs_amazon_product_keyword_intersections': 'product_keyword_intersections.amazon',
     'dataforseo_labs_google_app_competitors': 'app_competitors.google',
